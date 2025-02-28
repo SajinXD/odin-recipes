@@ -1,0 +1,62 @@
+*{
+    font-family:'Times New Roman', Times, serif;
+    background-color: bisque;
+    border: 4px solid orange;
+}
+
+h1{
+    color:brown;
+    text-align: center;
+    border: 4px solid orange;
+    padding: 5px;
+    margin: 8px 750px 8px 150px;
+    font-weight: bold;
+}
+
+.pinline{
+    font-size: larger;
+    margin-bottom: 5px;
+}
+
+.links{
+    color: black;
+    display: inline-block;
+    margin-top: 5px;    
+}
+
+.linkinline{
+    display: inline;
+}
+
+.images{
+    display:block;
+}
+
+h2{
+    display:block;
+}
+
+h2,
+h3,
+h4{
+    font-weight: bold;
+    color:brown;
+    text-align: center;
+}
+
+h3{
+    font-size:x-large;
+    color:brown;
+}
+
+h4{
+    color:brown;
+    background-color: bisque;
+    font-size:large;
+}
+
+.steps{
+    font-weight: bold;
+    text-align: center;
+    background-color: coral;
+}
